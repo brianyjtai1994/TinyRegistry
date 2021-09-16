@@ -1,0 +1,7 @@
+name = "TinyRegistry"
+uuid = "b339939d-be5c-48e7-850e-6d7a29bc8aad"
+repo = "https://github.com/brianyjtai1994/TinyRegistry.git"
+description = "A small `Julia` registry repo for my daily works."
+
+[packages]
+
