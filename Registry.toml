@@ -4,4 +4,5 @@ repo = "https://github.com/brianyjtai1994/TinyRegistry.git"
 description = "A small `Julia` registry repo for my daily works."
 
 [packages]
+f61ef0c9-d2b1-4370-9f73-58bf29aadc66 = { name = "ApproxInference", path = "ApproxInference" }
 
