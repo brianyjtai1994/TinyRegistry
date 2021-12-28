@@ -7,3 +7,4 @@ description = "A small `Julia` registry repo for my daily works."
 f61ef0c9-d2b1-4370-9f73-58bf29aadc66 = { name = "ApproxInference", path = "ApproxInference" }
 b954bf54-d75b-427c-a758-91b02d854ca4 = { name = "SolveDiffEq", path = "SolveDiffEq" }
 fc16d259-17d0-45d5-b352-c4a79ee8968e = { name = "Spectroscopy", path = "Spectroscopy" }
+4c485984-08a4-4805-a31a-4ac085ba158c = { name = "TinyFFT", path = "TinyFFT" }

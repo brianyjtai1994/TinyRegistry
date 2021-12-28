@@ -1,0 +1,4 @@
+name = "TinyFFT"
+uuid = "4c485984-08a4-4805-a31a-4ac085ba158c"
+repo = "https://github.com/brianyjtai1994/TinyFFT.jl.git"
+
